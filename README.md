@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vladislav
-- 👀 I’m interested in web development
+ 👋 Hi, I’m Vladislav  
+ 👀 I’m interested in web development
 
 <!---
 vladislav-o0/vladislav-o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
